@@ -4,7 +4,7 @@ const hide = document.getElementById('hide')
 const iframe = document.getElementById('iframe')
 
 //variable for "friendsname"
-const friendsname = 'Dante' // Type your friends name here
+const friendsname = 'Daan' // Type your friends name here
 
 
 // Execution code when clicking the button
